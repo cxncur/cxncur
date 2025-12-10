@@ -38,6 +38,5 @@
 <div align="center" style="margin-top: 10px;">
   <sub>
     all projects created and maintained by <b>@skidqs</b>
-    <img src="https://www.svgrepo.com/show/532323/lock-alt.svg" alt="lock icon" width="14" height="14" style="vertical-align: text-bottom; margin-left: 4px;" />
   </sub>
 </div>
