@@ -37,6 +37,6 @@
 
 <div align="center" style="margin-top: 10px;">
   <sub>
-    all projects created and maintained by <b>@skidqs</b>
+    all projects created and maintained by <b>@cxncur on discord & telegram</b>
   </sub>
 </div>
